@@ -22,7 +22,7 @@
 * Install all needed dependencies
 * If you install electron in global mode in also use Linux, type in terminal:
 \
-$ whereis electron
+**$ whereis electron**
 \
 in my own, this command returned /usr/local/bin/electron, that is my electron path
 * Update app.js in line 79 with your own electron path
