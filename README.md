@@ -27,6 +27,7 @@
 in my own, this command returned /usr/local/bin/electron, that is my electron path
 * Update app.js in line 79 with your own electron path
 * If you install electron not in globally, the path is:
+\
 your-project-folder/node_modules/.bin/electron
 
 ### Creator
