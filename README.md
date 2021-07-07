@@ -20,7 +20,7 @@
 ### Instruction
 * git clone https://github.com/my-store/electron-react-boilerplate.git
 * Install all needed dependencies
-* If you install electron in global mode in also use Linux, type in terminal:
+* If you install electron in globally and also use Linux, type in terminal:
 \
 **$ whereis electron**
 \
