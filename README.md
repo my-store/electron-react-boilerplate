@@ -12,13 +12,9 @@
 * webpack-cli 
 * babel-loader
 
-### Includes
-* h1 Text
-* Button with click-to-show-notification
-
 ### Instruction
 * git clone https://github.com/my-store/electron-react-boilerplate.git
-* npm install
+* Install all needed dependencies
 
 ### Creator
 * Izzat Alharis
