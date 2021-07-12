@@ -33,6 +33,12 @@ module.exports = {
           // Compiles Sass to CSS
           'sass-loader',
         ],
+      },
+      {
+        test: /\.(woff|ttf|otf|woff2|jpg|png|svg|webp)$/,
+        use: {
+          loader: 'url-loader',
+        }
       }
     ]
   },
